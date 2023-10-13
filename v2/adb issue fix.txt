@@ -1,0 +1,17 @@
+
+
+Device and PC are connected to same network connection.
+
+1 stay connect via USB
+
+2 adb kill-server
+
+3 adb usb
+
+4 adb tcpip 5555
+
+5 adb connect 192.168.43.1:5555
+
+6 adb devices (must be see two device names , one of them is by deviceIP)
+
+7 unplug USB cable
