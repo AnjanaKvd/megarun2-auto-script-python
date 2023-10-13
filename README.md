@@ -17,6 +17,7 @@ Install the required packages using pip:
 
 ```bash
 pip install pyautogui keyboard pywin32
+```
 
 Usage
 Clone this repository to your local machine.
